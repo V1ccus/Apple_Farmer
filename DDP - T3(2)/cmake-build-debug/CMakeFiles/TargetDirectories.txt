@@ -1,0 +1,3 @@
+D:/MyTask/c++/DDP/Dosen/DDP_E/Tugas_3(2)/cmake-build-debug/CMakeFiles/Tugas_3_2_.dir
+D:/MyTask/c++/DDP/Dosen/DDP_E/Tugas_3(2)/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/MyTask/c++/DDP/Dosen/DDP_E/Tugas_3(2)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
